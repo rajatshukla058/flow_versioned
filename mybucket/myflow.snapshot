@@ -40,26 +40,6 @@
           "processors" : [ ],
           "remoteProcessGroups" : [ ],
           "variables" : { }
-        }, {
-          "comments" : "",
-          "componentType" : "PROCESS_GROUP",
-          "connections" : [ ],
-          "controllerServices" : [ ],
-          "funnels" : [ ],
-          "groupIdentifier" : "af31b2ad-b7b7-3d89-8e97-b6594bb23785",
-          "identifier" : "853a9eb4-34aa-3d94-865b-ce83e209a3de",
-          "inputPorts" : [ ],
-          "labels" : [ ],
-          "name" : "new1",
-          "outputPorts" : [ ],
-          "position" : {
-            "x" : 258.62951169768604,
-            "y" : 294.93241682653877
-          },
-          "processGroups" : [ ],
-          "processors" : [ ],
-          "remoteProcessGroups" : [ ],
-          "variables" : { }
         } ],
         "processors" : [ ],
         "remoteProcessGroups" : [ ],
