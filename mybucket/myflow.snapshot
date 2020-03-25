@@ -1,0 +1,52 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "externalControllerServices" : { },
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "af31b2ad-b7b7-3d89-8e97-b6594bb23785",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "mygroup",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 357.0,
+          "y" : 89.0
+        },
+        "processGroups" : [ {
+          "comments" : "",
+          "componentType" : "PROCESS_GROUP",
+          "connections" : [ ],
+          "controllerServices" : [ ],
+          "funnels" : [ ],
+          "groupIdentifier" : "af31b2ad-b7b7-3d89-8e97-b6594bb23785",
+          "identifier" : "01d1c0a9-8137-3428-8a1e-be238e2bd83e",
+          "inputPorts" : [ ],
+          "labels" : [ ],
+          "name" : "new",
+          "outputPorts" : [ ],
+          "position" : {
+            "x" : 252.23947474879253,
+            "y" : 215.3866056755394
+          },
+          "processGroups" : [ ],
+          "processors" : [ ],
+          "remoteProcessGroups" : [ ],
+          "variables" : { }
+        } ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      },
+      "flowEncodingVersion" : "1.0",
+      "parameterContexts" : { }
+    }
+  }
+}
